@@ -1,9 +1,12 @@
 <div align="center">
 <h1>Mixed-bit Sampling Watermark: Generating Texture Patterns for Document Authentication</h1>
 
-Jiale Chen, Li Dong, Rangding Wang, Diqun Yan, and Wei Wang
+Jiale Chen, Li Dong, and Wei Wang, Weiwei Sun, Yushu Zhang, Jiantao Zhou
 
-Department of Computer Science, Ningbo University & Beijing Institute of Technology
+^1Department of Computer Science, Ningbo University
+^2Beijing Institute of Technology
+^3Beijing Institute of Technology
+^4Beijing Institute of Technology
 </div>
 
 # Introduction
