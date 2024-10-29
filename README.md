@@ -1,13 +1,14 @@
 <div align="center">
 <h1>Mixed-Bit Sampling Watermarking: Unifying Stochastic Anti-Counterfeiting and Authentication in Copy Sensitive Graphical Codes</h1>
 
-Jiale Chen, Li Dong, and Wei Wang, Weiwei Sun, Yushu Zhang, Jiantao Zhou
+Jiale Chen<sup>1</sup>, Li Dong<sup>1</sup>, and Wei Wang<sup>23</sup>, Weiwei Sun<sup>4</sup>, Yushu Zhang<sup>5</sup>, Jiantao Zhou<sup>6</sup>
 
-^1Department of Computer Science, Ningbo University
-^2Shenzhen MSU-BIT University
-^3Beijing Institute of Technology
-^4Jiangxi University of Finance and Economics
-^5University of Macau
+<sup>1</sup>Department of Computer Science, Ningbo University
+<sup>2</sup>Shenzhen MSU-BIT University
+<sup>3</sup>Beijing Institute of Technology
+<sup>4</sup>Alibaba Group
+<sup>5</sup>Jiangxi University of Finance and Economics
+<sup>6</sup>University of Macau
 </div>
 
 # Introduction
