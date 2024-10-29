@@ -12,7 +12,7 @@ Jiale Chen<sup>1</sup>, Li Dong<sup>1</sup>, and Wei Wang<sup>23</sup>, Weiwei S
 </div>
 
 # Introduction
-1. This is the official implementation of the paper titled *"Mixed-bit Sampling Watermark: Generating Texture Patterns for Document Authentication."*
+1. This is the official implementation of the paper titled *"Mixed-Bit Sampling Watermarking: Unifying Stochastic Anti-Counterfeiting and Authentication in Copy Sensitive Graphical Codes."*
 2. The work is based on our preliminary research, and more details can be found at [GitHub Repository](https://github.com/chenoly/MSG).
 3. The dataset used in this work is publicly available at [Kaggle](https://www.kaggle.com/datasets/chenoly/msw-dataset).
 
