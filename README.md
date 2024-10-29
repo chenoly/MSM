@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Mixed-Bit Sampling Watermarking: Unifying Stochastic Anti-Counterfeiting and Authentication in Copy Sensitive Graphical Codes</h1>
 
-Jiale Chen<sup>1</sup>, Li Dong<sup>1</sup>, and Wei Wang<sup>23</sup>, Weiwei Sun<sup>4</sup>, Yushu Zhang<sup>5</sup>, Jiantao Zhou<sup>6</sup>
+Jiale Chen<sup>13</sup>, Li Dong<sup>1</sup>, and Wei Wang<sup>23</sup>, Weiwei Sun<sup>4</sup>, Yushu Zhang<sup>5</sup>, Jiantao Zhou<sup>6</sup>
 
 <sup>1</sup>Department of Computer Science, Ningbo University
 <sup>2</sup>Shenzhen MSU-BIT University,
@@ -13,7 +13,7 @@ Jiale Chen<sup>1</sup>, Li Dong<sup>1</sup>, and Wei Wang<sup>23</sup>, Weiwei S
 
 # Introduction
 1. This is the official implementation of the paper titled *"Mixed-Bit Sampling Watermarking: Unifying Stochastic Anti-Counterfeiting and Authentication in Copy Sensitive Graphical Codes."*
-2. The work is based on our preliminary research, and more details can be found at [GitHub Repository](https://github.com/chenoly/MSG).
+2. The work is based on our preliminary research [MSG](https://ieeexplore.ieee.org/document/10376267), and more details of the preliminary work can be found at [GitHub Repository](https://github.com/chenoly/MSG).
 3. The dataset used in this work is publicly available at [Kaggle](https://www.kaggle.com/datasets/chenoly/msw-dataset).
 
 ## Overview
