@@ -3,7 +3,7 @@
 
 Jiale Chen<sup>13</sup>, Li Dong<sup>1</sup>, and Wei Wang<sup>23</sup>, Weiwei Sun<sup>4</sup>, Yushu Zhang<sup>5</sup>, Jiantao Zhou<sup>6</sup>
 
-<sup>1</sup>Department of Computer Science, Ningbo University
+<sup>1</sup>Department of Computer Science, Ningbo University,
 <sup>2</sup>Shenzhen MSU-BIT University,
 <sup>3</sup>Beijing Institute of Technology,
 <sup>4</sup>Alibaba Group,
