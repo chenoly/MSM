@@ -1,12 +1,13 @@
 <div align="center">
-<h1>Mixed-bit Sampling Watermark: Generating Texture Patterns for Document Authentication</h1>
+<h1>Mixed-Bit Sampling Watermarking: Unifying Stochastic Anti-Counterfeiting and Authentication in Copy Sensitive Graphical Codes</h1>
 
 Jiale Chen, Li Dong, and Wei Wang, Weiwei Sun, Yushu Zhang, Jiantao Zhou
 
 ^1Department of Computer Science, Ningbo University
-^2Beijing Institute of Technology
+^2Shenzhen MSU-BIT University
 ^3Beijing Institute of Technology
-^4Beijing Institute of Technology
+^4Jiangxi University of Finance and Economics
+^5University of Macau
 </div>
 
 # Introduction
